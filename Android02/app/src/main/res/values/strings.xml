@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="salvar">Salvar</string>
+    <string name="salvo_com_sucesso">Salvo com sucesso</string>
+    <string name="erro_ao_salvar_arquivo">Erro ao salvar arquivo</string>
+    <string name="erro_ao_ler_arquivo">Erro ao ler o arquivo</string>
+</resources>
