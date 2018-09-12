@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Persistencia2</string>
+    <string name="salvar">Salvar</string>
+    <string name="listar">listar</string>
+</resources>
